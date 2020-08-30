@@ -27,3 +27,13 @@ form button{
     outline: none;
     background: white;
 }
+form button{
+    color: #d88771;
+    background: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+form button:hover{
+    background-color: #d88771;
+    color: white;
+}
